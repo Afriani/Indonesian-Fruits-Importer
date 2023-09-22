@@ -3,6 +3,8 @@ Fruits Imported
 
 interactive plot could have seen on: http://localhost:5006/Analysis.
 
+interactive Geogaphrical plot could have seen on: http://localhost:5006/Geo
+
 ===============================
 
 Finding the biggest fruit importer for Indonesia
